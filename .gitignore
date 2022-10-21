@@ -1,1 +1,4 @@
-
+#hardware/*
+#!hardware/constr
+hardware/lab5/*
+#!hardware/src
